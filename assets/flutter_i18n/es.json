@@ -1,0 +1,392 @@
+{
+    "level": {
+        "title": "Selecciona un nivel de dificultad",
+        "options": {
+            "beginner": "Principiante",
+            "experienced": "Experimentado",
+            "any": "Cualquiera"
+        }
+    },
+
+    "language": {
+        "title": "¿Qué idioma estás \naprendiendo?",
+        "options": {
+            "spanish": "Español",
+            "english": "Inglés",
+            "any": "Cualquiera"
+        }
+    },
+
+    "settings": {
+        "section_title": "Configuración",
+
+        "change_language": {
+            "title": "Cambiar Idioma",
+            "message": "Siempre puede cambiar esta configuración aquí. Simplemente seleccione inglés o español.",
+            "subtitle": "Cambiar idioma"
+        },
+
+        "send_feedback": {
+            "title": "Enviar comentarios",
+            "message": "¿Has encontrado un error? ¿Quieres contactar con el propietario de la aplicación? Simplemente envía un mensaje.",
+            "subtitle": "Enviar mensaje."
+        },
+
+        "change_level": {
+            "title": "Cambiar Nivel de Dificultad",
+            "message": "¿Es demasiado difícil o quizás demasiado fácil? No hay problema. Simplemente toque para cambiarlo.",
+            "subtitle": "Elegir un nuevo idioma"
+        }
+    },
+
+    "home": {
+        "app_text": "El Constructor de Vocabulario",
+        "search_text": "Búsqueda de sustantivos, verbos, adjetivos, etc",
+
+        "category": {
+            "latest": "Recientes",
+            "adverbs": "Adverbios",
+            "verb": "Verbos",
+    
+            "adjectives": "Adjetivos",
+            "phrasal_verbs": "Verbos Frasales",
+    
+            "idioms": "Expresiones",
+            "nouns": "Sustantivos",
+    
+            "all_words": "Al azar",
+            "saved": "Palabras Favoritas"
+        }
+    },
+
+    "feedback": {
+        "title": "Comentarios",
+
+        "section_title": "Enviar comentarios",
+    
+        "form": {
+            "title": "Título",
+            "email": "Correo (opcional)",
+            "comment": "Comentarios",
+            "button": "Enviar"
+        },
+
+        "message": {
+            "error": "Hubo un error inesperado",
+            "success": "Se han enviado comentarios"
+        }
+    },
+
+    "saved": {
+        "section_title": "Palabras Favoritas",
+
+        "title": "Guarda palabras para\nestudiar más tarde",
+        "message": "Para guardar una palabra solo\ntoqua el marcador y aparecerá aquí.",
+
+        "error": {
+            "title": "Se produjo un error inesperado",
+            "message": "\nError al acceder\na la base de datos local\n\n\n"
+        }
+    },
+
+    "search": {
+        "section_title": "Buscando {search}",
+
+        "no_connection": {
+            "title": "No se pudo conectar al servidor",
+            "message": "\nPor favor verifique su conexión a internet e intente de nuevo"
+        },
+
+        "error": {
+            "title": "Se produjo un error desconocido al ejecutar la búsqueda.",
+            "message": "\nEstamos trabajando para solucionar este problema"
+        },
+
+        "empty": {
+            "message": "No se han encontrado resultados"
+        }
+    },
+
+    "category": {
+        "reload": "Actualizar",
+        "empty": "No hay nada aquí\n\n",
+
+        "no_connection": {
+            "title": "No se pudo conectar al servidor",
+            "message": "\nPor favor verifique su conexión a internet e intente de nuevo\n\n\n"
+        },
+
+        "error": {
+            "title": "Se produjo un error inesperado",
+            "message": "\nPor favor regresa más tarde\n\n\n"
+        },
+
+        "unavailable": {
+            "title": "Esta sección solo está\ndisponible en inglés",
+            "message": "\nDisculpe las molestias"
+        }
+    },
+
+    "word": {
+        "action": "Agregar a Palabras Favoritas",
+
+        "tabs": {
+            "about": "Información",
+            "examples": "Ejemplos",
+            "conjugation": "Conjugación"
+        },
+
+        "snackbar": {
+            "success": {
+                "text": "Palabra Guardada",
+                "action": "Muéstrame"
+            },
+
+            "fail": {
+                "text": "Error al guardar la palabra",
+                "action": "Entiendo"
+            },
+
+            "audio_error": {
+                "text": "Archivos de audio perdidos",
+                "action": "Información"
+            }
+        },
+
+        "about_section": {
+            "gramatical_category": "Categoría Gramatical",
+            "note": "Algo que debes saber",
+
+            "category": {
+                "noun": "Sustantivo. ",
+                "verb": "Verbo. ",
+                "adverb": "Adverbio. ",
+                "adjective": "Adjetivo. ",
+                "phasal_verb": "Verbo Frasal. ",
+                "idiom": "Modismo. "
+            },
+
+            "no_data": "No se proporcionó ninguna definición."
+        },
+
+        "examples_section": {
+            "gif": {
+                "loading": "Cargando...",
+                "notLoading": "No se pudo cargar el contenido"
+            },
+
+            
+            "sentences": "Ejemplos",
+            "similar_words": "Sinónimos",
+            "oposite_words": "Antónimos"
+        },
+
+        "conjugation_section": {
+            "verb_form": {
+                "title": "Conjugación de verbo",
+                "infinitive": "Infinitivo",
+                "present": "Presente",
+                "past": "Pasado"    
+            },
+
+            "first_person_singular": {
+                "title": "Primera Persona Singular",
+                "first": "Yo",
+                "second": "Tú",
+                "third": "Ella/Él/Eso"
+            },
+
+            "first_person_plural": {
+                "title": "Primera Persona Plural",
+                "first": "Nosotros/as",
+                "second": "Ustedes",
+                "third": "Ellos/as"
+            }
+            
+        }
+    },
+
+    "help" : {
+        "section_title": "Información",
+        "tabs": {
+            "questions": "Preguntas",
+            "help": "Ayuda",
+            "credits": "Créditos"
+        }
+    },
+
+    "question_answers": {
+        "question_one": {
+            "question": "¿Cómo obtengo más palabras?",
+            "title": "Una simple solución",
+            "answer": "Para obtener más palabras, simplemente toca el botón de recarga en la parte superior derecha."
+        },
+
+        "question_one_2": {
+            "question": "¿Qué significa cada color?",
+            "title": "Cada color representa una categoría gramatical",
+            "answer": "Si alguna vez ve una palabra de color púrpura, significa que tiene más de una categoría gramatical o incluso puede que sea la misma palabra con diferentes colores."
+        },
+
+        "sentence": {
+            "question": "¿Qué es una oración?",
+            "title": "Un conjunto de palabras.",
+            "answer": "La oración es un conjunto de palabras que expresa una idea o pensamiento."
+        },
+
+        "singular": {
+            "question": "¿Qué significa singular?",
+            "title": "Un solo objeto",
+            "answer": "Singular se refiere a cuando hablamos de solamente un objeto en particular."
+        },
+
+        "plural": {
+            "question": "¿Qué significa plural?",
+            "title": "Mas de un objeto",
+            "answer": "Plural, se refiere a cuando hablamos de más de una sola cosa."
+        },
+
+        "antonyms": {
+            "question": "¿Qué son los antónimos?",
+            "title": "Palabras opuestas",
+            "answer": "Los antónimos son aquellas palabras cuyos significados son opuestos."
+        },
+
+        "synonyms": {
+            "question": "¿Qué son los sinónimos?",
+            "title": "Palabras similares",
+            "answer": "Los sinónimos son palabras que tienen el mismo significado de otras palabras."
+        },
+
+        "subject": {
+            "question": "¿Qué es el sujeto?",
+            "title": "De quien se habla",
+            "answer": "El sujeto es la persona, animal o cosa de la que se habla en una oración."
+        },
+
+        "phasal_verbs": {
+            "question": "¿Qué es un verbo frasal?",
+            "title": "Su significado no es obvio",
+            "answer": "Son verbos compuestos por un verbo principal y un adverbio o preposición."
+        },
+
+        "verb": {
+            "question": "¿Qué es un verbo?",
+            "title": "Toda acción del sujeto",
+            "answer": "El verbo es la parte de la oración que expresa la acción del sujeto."
+        },
+
+        "noun": {
+            "question": "¿Qué es un sustantivo?",
+            "title": "Referencia a un objeto",
+            "answer": "Los sustantivos son palabras con las que se denominan personas, animales, cosas, ideas o pensamientos."
+        },
+
+        "adjective": {
+            "question": "¿Qué es un adjetivo?",
+            "title": "Una descripción",
+            "answer": "Un adjetivo es la palabra que modifica al sustantivo, es el que indica alguna característica o cualidad del sustantivo."
+        },
+
+        "idioms": {
+            "question": "¿Qué son las expresiones coloquiales?",
+            "title": "Literalmente no tienen sentido",
+            "answer": "Los modismos/frases/jerga son expresiones de cada lenguaje que de traducirse literalmente, no tendrían sentido."
+        },
+
+        "adverb": {
+            "question": "¿Qué es un adverbio?",
+            "title": "El cómo, dónde o cuándo",
+            "answer": "Un adverbio es una parte de la oración que modifica: verbos, adjetivos y otros adverbios. Los adverbios expresan circunstancias como modo, lugar, tiempo, cantidad, etc."
+        },
+
+        "not_found": {
+            "question": "¿No encuentras lo que estás buscando?",
+            "title": "Envía tus comentarios",
+            "subtitle": "Puedes enviar una solicitud para agregar nuevas funciones o nuevo contenido, toca aquí para abrir enviar una petición"
+        }
+    },
+
+    "troubleshooting": {
+        "title": "Ayuda",
+
+        "no_words": {
+            "title": "No me aparecen palabras",
+            "subtitle": "Siempre tengo el mensaje: No se pudo conectar con el servidor",
+            "response_one": "Conexión a internet.",
+            "solution_one": "Una razón podría ser que conexión a internet puede estar fallando o es muy lenta, por favor comprueba la conexión a internet. Si no funciona, intenta más tarde."
+        },
+
+        "no_server": {
+            "title": "¡He alcanzado el limite gratuito!",
+            "subtitle": "Cada usuario tiene una cuota gratuita",
+            "response_one": "Límite gratuito alcanzado",
+            "solution_one": "Puedes hacer hasta 100 solicitudes cada 5 horas, si el servidor detectó que ya hiciste 100 solicitudes, no funcionará más. Siempre puedes usar la versión web que no tiene límites."
+        },
+
+        "voice": {
+            "title": "¡La voz no habla!",
+            "subtitle": "La voz depende de tu velocidad de internet.",
+            "response_one": "Conexión a internet.",
+            "solution_one": "El archivo de audio proviene de servidores muy lejanos que pueden tardar mucho en cargarse, asegúrate de tener una buena conexión a Internet."
+        },
+
+        "no_volume": {
+            "title": "¡No puedo escuchar nada!",
+            "subtitle": "En algunos dispositivos, la aplicación puede mostrar un comportamiento extraño, pero puedes solucionarlo con la siguiente guía.",
+            "response_one": "Se paciente.",
+            "solution_one": "Esta aplicación está en fase beta y podría tardar un poco en responder, puede tardar hasta 20 segundos, por favor se paciente.",
+
+            "response_two": "Comprueba el volumen.",
+            "solution_two": "Podría ser obvio, pero ¿has intentado aumentar el volumen?",
+
+            "response_three": "Modo no molestar.",
+            "solution_three": "Es posible que tengas activado el modo 'No molestar', intenta desactivarlo.",
+
+            "response_four": "Última revisión.",
+            "solution_four": "Si nada de esto funciona, tienes dos opciones, puede que tu teléfono tenga un altavoz que no funciona o tu dispositivo no escompatible con la aplicación."
+        },
+
+        "missing_files": {
+            "title": "Archivos perdidos",
+            "subtitle": "¿Limpiaste tu teléfono?",
+            "response_one": "Memoria caché",
+            "solution_one": "Si recientemente limpiaste tu teléfono, es posible que hayas eliminado los archivos de audio almacenados en tu teléfono. Por favor no borres la memoria caché de esta aplicación."
+        }
+    },
+
+    "credits": {
+        "developer": {
+            "title": "Aplicación desarrollada por Joshua García",
+            "title_two": "Toca aquí para donar",
+            "subtitle": "El objetivo de esta aplicación es ayudarte a aumentar tu vocabulario."
+        },
+
+        "content": {
+            "title": "Gifs proporcionados por Giphy",
+            "title_two": "Toca para obtener más información",
+            "subtitle": "Joshua García no es el propietario de ningún gif que se muestre en esta aplicación."
+        },
+
+        "icon_designer_one": {
+            "title": "Iconos Diseñados por mynamepong",
+            "title_two": "Diseñador del icono del hombre corriendo.",
+            "subtitle": "Toca para obtener más información.",
+            "subtitle_two": "Icono hecho por mynamepong de www.flaticon.com"
+        },
+
+        "icon_designer": {
+            "title": "Iconos Diseñados por srip",
+            "title_two": "Diseñador del icono del archivo perdido.",
+            "subtitle": "Toca para obtener más información.",
+            "subtitle_two": "Icono hecho por srip de www.flaticon.com"
+        },
+
+        "icon_designer_two": {
+            "title": "Iconos Diseñados por Freepik",
+            "title_two": "Iconos hecho por Freepik de www.flaticon.com",
+            "subtitle": "Toca para obtener más información.",
+            "subtitle_two": "Todos los iconos de colores, excepto el hombre corriendo y el icono de la aplicación, fueron diseñados y creados por Freepik."
+        }
+    }
+}

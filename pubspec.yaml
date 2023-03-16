@@ -1,0 +1,116 @@
+name: vocabulary_builder
+description: A new Flutter project.
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+version: 31.0.0
+
+environment:
+  sdk: ">=2.3.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  ## translation
+  intl: ^0.16.0
+  flutter_i18n: ^0.8.2
+  flutter_localizations:
+    sdk: flutter
+
+  ## Core modules
+  dio: ^2.1.16
+  http: ^0.12.0+2
+  sembast: ^2.1.0
+  path_provider: ^1.5.1
+  audioplayers: ^0.13.3
+  shared_preferences: ^0.5.6
+  data_connection_checker: ^0.3.4  
+
+  ## user experience
+  share: ^0.6.0+1
+  material_search: ^0.2.8
+  flutter_web_browser: "^0.11.0"
+  flutter_cache_manager: ^1.1.1
+  cached_network_image: ^2.0.0-rc
+  font_awesome_flutter: ^8.5.0
+  flutter_app_badger: ^1.1.2
+
+  ## State managment
+  flutter_bloc: ^2.0.0
+  equatable: ^0.5.1
+
+  ## Revenue
+  firebase_admob: ^0.9.0+10
+
+  ## Developer tools
+  firebase_analytics: ^5.0.9
+  firebase_messaging: ^6.0.9
+  device_info: ^0.4.1+4
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+
+  intl_translation: ^0.17.1
+  flutter_test:
+    sdk: flutter
+
+  flutter_launcher_icons: ^0.7.0
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter_icons:
+  image_path: "assets/pictures/iccon.png"
+  android: true
+  ios: false
+  adaptive_icon_background: "#FFAFAFA"
+
+flutter:
+  uses-material-design: true
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Regular.ttf
+          weight: 400
+
+    - family: Lato
+      fonts:
+        - asset: assets/fonts/Lato-Regular.ttf
+          weight: 400
+
+    - family: Heebo
+      fonts:
+        - asset: assets/fonts/Heebo-Regular.ttf
+          weight: 400
+
+    - family: CircularStd
+      fonts:
+        - asset: assets/fonts/CircularStd-Book.ttf
+
+        - asset: assets/fonts/CircularStd-Medium.ttf
+          weight: 600
+
+        - asset: assets/fonts/CircularStd-Black.ttf
+          weight: 700
+
+        - asset: assets/fonts/CircularStd-Bold.ttf
+          weight: 900
+
+  assets:
+    - assets/flutter_i18n/
+    - assets/pictures/
+   

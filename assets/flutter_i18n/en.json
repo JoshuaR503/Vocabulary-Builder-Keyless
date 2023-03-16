@@ -1,0 +1,401 @@
+{
+    "level": {
+        "title": "Select a difficulty level",
+        "options": {
+            "beginner": "Beginner",
+            "experienced": "Experienced",
+            "any": "Doesn't matter"
+        }
+    },
+
+    "language": {
+        "title": "Choose a language to \nstudy",
+        "options": {
+            "spanish": "Spanish",
+            "english": "English"
+        }
+    },
+
+    "home": {
+        "app_text": "Vocabulary Builder",
+        "search_text": "Search nouns, verbs, adjectives, etc",
+
+        "category": {
+            "latest": "Latest",
+            
+            "adverbs": "Adverbs",
+            "verb": "Verbs",
+    
+            "adjectives": "Adjectives",
+            "phrasal_verbs": "Phrasal Verbs",
+    
+            "idioms": "Colloquialism",
+            "nouns": "Nouns",
+    
+            "all_words": "Random Words",
+            "saved": "Favorite Words"
+        }
+    },
+
+    "feedback": {
+        "title": "Feedback",
+        "section_title": "Send Feedback",
+    
+        "form": {
+            "title": "Title",
+            "email": "Email (optional)",
+            "comment": "Comment",
+            "button": "Submit"
+        },
+        
+
+        "message": {
+            "error": "There was an unknown error",
+            "success": "Feedback has been sent"
+        }
+    },
+
+    "settings": {
+        "section_title": "Settings",
+
+        "change_language": {
+            "title": "Change Learning Language",
+            "message": "You can always change this setting here. Simply select English or Spanish.",
+            "subtitle": "Change language"
+        },
+
+
+        "send_feedback": {
+            "title": "Send Feedback",
+            "message": "Found an error? Would you like to contact the app owner? Just send a message.",
+            "subtitle": "Change Experience level"
+        },
+
+        "change_level": {
+            "title": "Change Experience Level",
+            "message": "Is it too hard or maybe too easy?\nDoesn't matter. Just tap to change it.",
+            "subtitle": "Change Experience level"
+        }
+    },
+    
+    "saved": {
+        "section_title": "Favorite Words",
+        
+        "title": "Save words to study\nlater or offline",
+        "message": "\nSimply tap the bookmar icon\nto save a word"
+    },
+
+    "search": {
+        "section_title": "Search {search}",
+
+        "no_connection": {
+            "title": "No connection"
+        },
+
+        "error": {
+            "title": "Something unexpected happened"
+        },
+
+        "empty": {
+            "message": "No results found"
+        }
+    },
+
+    "category": {
+        "reload": "Refresh Content",
+        "empty": "Nothing here",
+
+        "no_connection": {
+            "title": "Could not connect to the server",
+            "message": "\nPlease check your internet connection\n\n\n"
+        },
+
+        "error": {
+            "title": "Something unexpected happened",
+            "message": "\nWe are working to fix this issue\nPlease try again later\n\n\n"
+        },
+
+        "unavailable": {
+            "title": "This section is only available in English",
+            "message": "\nSorry for the inconvenience"
+        }
+    },
+
+    "word": {
+        "action": "Add to Favorites",
+
+        "tabs": {
+            "about": "About",
+            "examples": "Examples",
+            "conjugation": "Conjugation"
+        },
+
+        "snackbar": {
+            "success": {
+                "text": "Word Saved",
+                "action": "Show me"
+            },
+
+            "fail": {
+                "text": "Failed to save word",
+                "action": "Got it"
+            },
+
+            "audio_error": {
+                "text": "Missing audio files",
+                "action": "Help"
+            }
+        },
+
+        "about_section": {
+            "gramatical_category": "Grammatical Category",
+            "category": {
+                "noun": "Noun. ",
+                "verb": "Verb. ",
+                "adverb": "Adverb. ",
+                "adjective": "Adjective. ",
+                "phasal_verb": "Phrasal Verb. ",
+                "idiom": "Idiom. "
+            },
+
+            "note": "Something you must know",
+
+            "no_data": "No definition has been provided."
+        },
+
+        "examples_section": {
+            "gif": {
+                "loading": "Loading...",
+                "notLoading": "Could not load content"
+            },
+
+            "sentences": "Sentences",
+            "similar_words": "Synonyms",
+            "oposite_words": "Antonyms"
+
+        },
+
+        "conjugation_section": {
+            "verb_form": {
+                "title": "Verb Conjugation",
+                "infinitive": "Infinitive",
+                "present": "Present",
+                "past": "Past"    
+            },
+
+            "first_person_singular": {
+                "title": "First Person Singular",
+                "first": "I",
+                "second": "You",
+                "third": "She/He/It"
+            },
+
+            "first_person_plural": {
+                "title": "Primera Persona Plural",
+                "first": "We",
+                "second": "You",
+                "third": "They"
+            }
+        }
+    },
+
+    "saved_words": {
+        "title": "Saved Words",
+        "appbar": {
+            "icons": {
+                "search_tooltip": "Word Search"
+            }
+        },
+
+        "error": {
+            "title": "Something unexpected happened",
+            "message": "\nCould not\naccess local database\n\n"
+        }
+    },
+
+    "help" : {
+        "section_title": "Information",
+
+        "tabs": {
+            "questions": "Questions",
+            "help": "Help",
+            "credits": "Credits"
+        }
+    },
+
+    "question_answers": {
+
+        "question_one": {
+            "question": "How do I get more words?",
+            "title": "A simple solution",
+            "answer": "To get more words, tap the refresh button on the top right corner or just slide your finger down."
+        },
+        
+        "question_one_2": {
+            "question": "What does each color mean?",
+            "title": "Each color represents a grammatical category",
+            "answer": "If you ever see a purple word, it means it has more than one grammatical category or it may even be the same word with different colors."
+        },
+
+        "sentence": {
+            "question": "What is a Sentence?",
+            "title": "A set of words ",
+            "answer": "A sentence is a set of words used to express an idea or thought. Examples: The man is running. I am learning another language."
+        },
+
+        "singular": {
+            "question": "What does singular mean?",
+            "title": "A single object",
+            "answer": "Singular expresses a single unit of the beings or objects referred to."
+        },
+
+        "plural": {
+            "question": "What does plural mean?",
+            "title": "More than one object",
+            "answer": "Plural refers to more than one thing."
+        },
+
+        "antonyms": {
+            "question": "What are antonyms?",
+            "title": "Opposite words",
+            "answer": "Antonyms are those words whose meanings are opposite."
+        },
+
+        "synonyms": {
+            "question": "What are synonyms?",
+            "title": "Similar words",
+            "answer": "Synonyms are words that have the same meaning as other words."
+        },
+
+        "subject": {
+            "question": "What is a subject?",
+            "title": "Who we talk about",
+            "answer": "The subject is the person, animal or thing discussed in a sentence."
+        },
+
+        "phasal_verbs": {
+            "question": "What are phrasal verbs?",
+            "title": "Its meaning is not obvious.",
+            "answer": "These are the verbs composed by the main verb and an adverb or proposition."
+        },
+
+        "verb": {
+            "question": "Verbs",
+            "title": "Every action",
+            "answer": "A verb shows action or state of being; It's the part of the sentence that expresses the subject's action. "
+        },
+
+        "noun": {
+            "question": "Nouns",
+            "title": "Persons, objects, ideas or places.",
+            "answer": "A word used to identify any of a class of people, places, or things."
+        },
+
+        "adjective": {
+            "question": "Adjective",
+            "title": "A description of a noun.",
+            "answer": "Adjectives describe nouns by modifying them. They can specify color, size, number, etc."
+        },
+
+        "idioms": {
+            "question": "What is Colloquialism?",
+            "title": "A word or phrase that is not formal",
+            "answer": "Idioms/phrases/slang are expressions of every language that if translated literally, would not make sense."
+        },
+
+        "adverb": {
+            "question": "Adverb",
+            "title": "Words which describe verbs or adjectives",
+            "answer": "Adverbs specifies in what manner, when, how much, and where."
+        },
+
+        "not_found": {
+            "question": "Couldn't find what you were looking for?",
+            "title": "Send Feedback!",
+            "subtitle": "You can send a request to add new features or new content, tap here to open send a request"
+        }
+    },
+    
+    "troubleshooting": {
+        "no_words": {
+            "title": "Words are not showing up!",
+            "subtitle": "I always get the message: Couldn't connect to the server",
+            "response_one": "Internet connection.",
+            "solution_one": "One reason could be that internet connection may be failing or is very slow, please check the internet connection. If it doesn't work, try again later."
+        },
+
+        "no_server": {
+            "title": "I've reached my free tier usage!",
+            "subtitle": "Free quota reached",
+            "response_one": "Each user has a limit quota",
+            "solution_one": "You can make up to 100 requests every 5 hours, if you already made 100 requests, the app won't work in the next 5 hours. You can always use the web version that has no limits."
+        },
+
+        "voice": {
+            "title": "There is no pronunciation!",
+            "subtitle": "The voice depends on your internet speed.",
+
+            "response_one": "Internet connection.",
+            "solution_one": "The audio file comes from very far away servers! It may take a while to load, make sure you have a good Internet connection"
+        },
+
+        "no_volume": {
+            "title": "I can't hear anything!",
+            "subtitle": "In some devices, the application may show strange behavior, but you can solve it with the following steps.",
+
+            "response_one": "Be patient.",
+            "solution_one": "This application could take a while to respond, it may take up to 20 seconds, please be patient.",
+
+            "response_two": "Check the volume.",
+            "solution_two": "It might be obvious, but have you tried increasing the volume?",
+
+            "response_three": "Do Not Disturb.",
+            "solution_three": "It is might be possible that you have activated the 'Do not disturb' mode. Try turning it off",
+
+            "response_four": "Last check",
+            "solution_four": "If none of this works, you have two options, your phone may have a speaker that does not work or your device is not compatible with the application."
+        },
+
+        "missing_files": {
+            "title": "Missing files",
+            "subtitle": "Did you clean your phone?",
+            "response_one": "Cache memory",
+            "solution_one": "If you recently cleaned your phone, you might have deleted the audio files stored in your phone. Please try to not delete the cache memory from this app."
+        }
+    },
+
+    "credits": {
+        "developer": {
+            "title": "Application developed by Joshua García",
+            "title_two": "Tap here to donate",
+            "subtitle": "We'll keep adding more content and features to the app."
+        },
+
+        "content": {
+            "title": "Gifs provided by Giphy",
+            "title_two": "Tap to find out more about Giphy",
+            "subtitle": "Joshua García is not the owner of any gifs shown in this app."
+        },
+
+        "icon_designer_one": {
+            "title": "Icons Designed by mynamepong",
+            "title_two": "Tap the icon to find out more",
+            "subtitle": "Designed the icon of the man running.",
+            "subtitle_two": "Icon made by mynamepong from www.flaticon.com"
+        },
+
+        "icon_designer": {
+            "title": "Icons Designed by srip",
+            "title_two": "Tap the icon to find out more",
+            "subtitle": "Designed the icon of the file missing.",
+            "subtitle_two": "Icon made by srip from www.flaticon.com"
+        },
+
+        "icon_designer_two": {
+            "title": "Icons Designed by Freepik",
+            "title_two": "All the colored icons, except the man running and the application icon, were designed and created by Freepik.",
+            "subtitle": "Tap the icon to find out more",
+            "subtitle_two": "Icons made by Freepik from www.flaticon.com"
+        }
+    }
+}
